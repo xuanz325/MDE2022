@@ -9,4 +9,4 @@ Handle incoming messages: When the ESP32 is subscribed to a topic, it can receiv
 
 
 Instructions for ESP32 Arduino Setup
-https://docs.google.com/document/d/e/2PACX-1vSJ62C6IacinYqB9dqTykBd1xZzCwV16
+https://docs.google.com/document/d/e/2PACX-1vSJ62C6IacinYqB9dqTykBd1xZzCwV16O7qrnDmVocq1MvRM7ZfxERS3ckPWuKErDYUOoSxwjcan7BS/pub
