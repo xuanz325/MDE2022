@@ -9,8 +9,8 @@
 Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_RST);
 
 
-const char* WLAN_SSID = "123";         
-const char* WLAN_PASS = "1029384756";  
+const char* WLAN_SSID = "Your wifi SSID";         
+const char* WLAN_PASS = "Your wifi password";  
 const char* mqtt_user="mde_test";
 const char* mqtt_pass="mde_test";
 const char* mqtt_server="137.184.70.171";
